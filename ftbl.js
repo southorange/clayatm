@@ -17,12 +17,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('ftbl2.html');
-		openWindow('ftbl2.html');
-		openWindow('ftbl2.html');
-		openWindow('ftbl2.html');
-		openWindow('ftbl2.html');
-		openWindow('ftbl2.html');
+		openWindow('ftbl3.html');
+		openWindow('ftbl3.html');
+		openWindow('ftbl3.html');
+		openWindow('ftbl3.html');
+		openWindow('ftbl3.html');
+		openWindow('ftbl3.html');
 		}
 
 function newXlt(){
